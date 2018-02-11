@@ -10,7 +10,11 @@
 ## 运行项目
 
 ```
+    启动本地mongod
+
     npm intall
+
+    npm run build
 
     npm run server
 
